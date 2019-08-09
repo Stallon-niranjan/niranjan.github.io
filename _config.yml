@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 # Site settings
-# title: Nirajan Anandakumar
+title: Nirajan Anandakumar blogs
 email: 
 description: "Spirals of a ML Scientist."
 baseurl: ""
@@ -9,10 +9,10 @@ url: "http://niranjan.github.io"
 github_username:  stallon-niranjan
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 permalink: pretty
 
-# highlighter: rouge
+highlighter: rouge
 # kramdown:
 #   input: GFM
 #   auto_ids: true
